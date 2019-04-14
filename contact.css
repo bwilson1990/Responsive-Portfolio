@@ -1,0 +1,20 @@
+.row-contact {
+    color: black;
+    background-color: white;
+    text-align: left;
+    padding: 12px;
+    margin-top: 48px;
+}
+
+.form-group {
+    margin-left: 0px;
+    padding: 0px;
+}
+
+h1 {
+    margin-left: 0px;
+    margin-top: 20px;
+}
+
+.row2 {
+    background-color: darkgrey;
